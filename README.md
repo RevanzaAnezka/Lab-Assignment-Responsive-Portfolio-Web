@@ -14,12 +14,18 @@ The goal of this HCI Lab Project is to:
 - Showcase personal or sample projects in a professional format
 
 ## 👥 Target Audience
-This portfolio is designed for: Mr. Juwono as HCI Lab
+This portfolio is designed for: Mr. Juwono as HCI Lab T
 
 ## 🧱 Technologies Used
 - HTML5
 - CSS3 (Flexbox, Box Models, Media Queries)
 - Claude Sonnet 5.5
+
+##  Color Palette
+- 000000
+- 830000
+- BC0202
+- FF0000
 
 ## Author
 - Name:         Revanza Anezka Loventiar
