@@ -27,6 +27,6 @@ This portfolio is designed for: Mr. Juwono as HCI Lab
 - Claude Sonnet 5.5
 
 ## Author
-Name:         Revanza Anezka Loventiar
-Student ID:   3002835651
-Class Code:   B1AC
+- Name:         Revanza Anezka Loventiar
+- Student ID:   3002835651
+- Class Code:   B1AC
