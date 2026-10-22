@@ -1,19 +1,32 @@
-# Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-## Description
-Single-Page Responsive Portfolio Website for HCI LAB. Provides credentials of personal portfolio that includes about me, skills, projects, and contact information. It also involves
+## 📖 Project Overview
+Single-Page Responsive Portfolio Website for HCI LAB. Provides credentials of personal portfolio that includes about me, skills, projects, and contact information. This website is built using **HTML** and **CSS**.
 
-## Features
-- Built without JavaScript, pure HTML and CSS
-- Uses CSS Flexbox to make it responsive
-- Contains icons as part of the design
-- Interactive elements are added including hovers and external links opening in new tabs (for social media)
+- URL Link to website portfolio: [Click Here](https://revanzaanezka.github.io/Lab-Assignment-Responsive-Portfolio-Web/)
+- URL Link to website design: [Click Here](https://www.figma.com/design/hsT4mzpjKuyokdjAbFKYuL/Portfolio-Design--Community-?node-id=0-1&t=IRZ3CAKUnROqSOMr-1)
 
-## Links
-- Website: https://revanzaanezka.github.io/Lab-Assignment-Responsive-Portfolio-Web/
-- Figma Design: https://www.figma.com/design/hsT4mzpjKuyokdjAbFKYuL/Portfolio-Design--Community-?node-id=0-1&t=IRZ3CAKUnROqSOMr-1
+## 🎯 Purpose
+
+The goal of this HCI Lab Project is to:
+
+- Wisely utilize AI to help through the design and development processes
+- Learn to structure and style a webpage
+- Practice responsive web design techniques
+- Showcase personal or sample projects in a professional format
+- 
+## 👥 Target Audience
+
+This portfolio is designed for: Mr. Juwono as HCI Lab
+
+
+## 🧱 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Box Models, Media Queries)
+- Claude Sonnet 5.5
 
 ## Author
-Name:       Revanza Anezka Loventiar
-Student ID: 3002835651
-Class Code: B1AC
+Name:         Revanza Anezka Loventiar
+Student ID:   3002835651
+Class Code:   B1AC
