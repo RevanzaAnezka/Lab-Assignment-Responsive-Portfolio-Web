@@ -14,7 +14,7 @@ The goal of this HCI Lab Project is to:
 - Learn to structure and style a webpage
 - Practice responsive web design techniques
 - Showcase personal or sample projects in a professional format
-- 
+
 ## 👥 Target Audience
 
 This portfolio is designed for: Mr. Juwono as HCI Lab
