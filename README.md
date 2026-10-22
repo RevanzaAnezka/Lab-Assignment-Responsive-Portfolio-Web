@@ -9,8 +9,8 @@ Single-Page Responsive Portfolio Website for HCI LAB. Provides credentials of pe
 ## 🎯 Purpose
 The goal of this HCI Lab Project is to:
 - Wisely utilize AI to help through the design and development processes
-- Learn to structure and style a webpage
-- Practice responsive web design techniques
+- Learn to build and style a well-structured webpage from scratch using Figma to design and execute with HTML and CSS.
+- Implement responsive design principles so the portfolio functions perfectly on any device size.
 - Showcase personal or sample projects in a professional format
 
 ## 👥 Target Audience
